@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
 
-**A ferramenta definitiva para mestres de RPG criarem e gerenciarem trilhas sonoras épicas para suas sessões!**
+**Uma ferramenta para mestres de RPG criarem e gerenciarem trilhas sonoras épicas para suas sessões!**
 
 [Características](#-características) • [Instalação](#-instalação) • [Como Usar](#-como-usar) • [Capturas de Tela](#-capturas-de-tela) • [Contribuir](#-contribuir)
 
